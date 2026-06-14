@@ -27,7 +27,7 @@ export default function Footer() {
                 <FaGithub />
                 </a>
 
-                <a href="#"
+                <a href="https://portafolio-webscraping-v2.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-zinc-900 hover:bg-sky-500 hover:scale-105 transition-all duration-300"
